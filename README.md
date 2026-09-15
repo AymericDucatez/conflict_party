@@ -1,6 +1,6 @@
 # conflict_party
 
-L’Inspection générale des Finances a depuis deux siècles une place singulière au coeur de l’Etat Français et surtout dans le cœur des français <3. 
+L’Inspection générale des finances occupe depuis deux siècles  une place singulière au cœur de l’État français et surtout dans le cœur des français <3. 
 
 Depuis près de deux siècles, elle incarne une certaine idée de l’exigence publique : celle d’une administration capable de regarder avec lucidité son propre fonctionnement, d’en mesurer les résultats et d’en proposer sans complaisance l’amélioration. 
 
