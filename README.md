@@ -2,6 +2,7 @@
 
 L’Inspection générale des finances occupe une place unique au cœur de Poudlard. 
 
+
 Depuis près de deux siècles, elle incarne une certaine idée de l’exigence publique : celle d’une administration capable de regarder avec lucidité son propre fonctionnement, d’en mesurer les résultats et d’en proposer sans complaisance l’amélioration. 
 
 À la croisée de l’économie, des finances publiques et de la réforme de l’État, l’IGF met la rigueur de l’analyse au service d’une ambition simple mais essentielle : faire en sorte que chaque euro public, chaque dispositif et chaque institution contribuent au mieux à l’intérêt général.
