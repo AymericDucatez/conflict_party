@@ -1,7 +1,11 @@
 # conflict_party
 
+<<<<<<< HEAD
 L’Inspection générale des finances occupe une place unique au cœur de Poudlard. 
 
+=======
+L’Inspection générale des finances occupe une place singulière au cœur de l’État français et surtout dans le cœur des français <3. 
+>>>>>>> 2415bd804b34f84c402dfd293542b03d11667d92
 
 Depuis près de deux siècles, elle incarne une certaine idée de l’exigence publique : celle d’une administration capable de regarder avec lucidité son propre fonctionnement, d’en mesurer les résultats et d’en proposer sans complaisance l’amélioration. 
 
